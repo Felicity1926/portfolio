@@ -1,0 +1,12 @@
+h2 {
+    color: rgb(247, 0, 255);
+}
+
+.about {
+    display: flex;
+     /* flex-direction: column; */
+     /* justify-content: center; */
+     align-items: center;
+
+     gap: 2rem; /* 16px */
+}
