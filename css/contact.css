@@ -160,6 +160,14 @@
     font-weight: 600;
 }
 
+.form-message {
+    display: block;
+}
+
+.form-message.hidden {
+    display: none;
+}
+
 .form-message.success {
     background-color: #d4edda;
     color: #155724;
